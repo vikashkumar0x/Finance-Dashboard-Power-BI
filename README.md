@@ -10,3 +10,4 @@ The dashboard helps in understanding:
 - Profit contribution by segment
 - Sales trend over time
 - Segment-wise sales distribution
+<img width="1460" height="814" alt="Image" src="https://github.com/user-attachments/assets/fab72c60-4f38-4569-a31d-c5e2a157a942" />
