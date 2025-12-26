@@ -61,7 +61,3 @@ Sample Financial Dataset (Excel)
 Vikash Kumar  
 Aspiring Data Analyst / Business Analyst  
 Skills: Power BI | SQL | Excel | Data Analysis
-
- 
-- Aspiring Data Analyst / Business Analyst  
-- Skills: Power BI | SQL | Excel | Data Analysis
