@@ -31,43 +31,62 @@ The goal of this project is to enable stakeholders to quickly understand key fin
 -Units Sold
 
 ## Dashboard Highlights
-Country-wise sales and profit analysis
-Segment-wise profit contribution
-Sales and profit trend over time
-Interactive filters for better insights
+-Country-wise sales and profit analysis
+
+-Segment-wise profit contribution
+
+-Sales and profit trend over time
+
+-Interactive filters for better insights
 
 ## Business Segments Covered
-Government
-Small Business
-Enterprise
-Midmarket
-Channel Partners
+-Government
+
+-Small Business
+
+-Enterprise
+
+-Midmarket
+
+-Channel Partners
 
 ## Regional Analysis
-United States
-Canada
-France
-Germany
-Mexico
+-United States
+
+-Canada
+
+-France
+
+-Germany
+
+-Mexico
 
 ## Key Insights
-Government and Small Business segments contribute the highest share of sales
-Profit margins vary significantly across segments
-Clear seasonal trends are visible in sales and profit over time
-Certain regions consistently outperform others in profitability
+-Government and Small Business segments contribute the highest share of sales
+
+-Profit margins vary significantly across segments
+
+-Clear seasonal trends are visible in sales and profit over time
+
+-Certain regions consistently outperform others in profitability
  
 <img width="1460" height="814" alt="Image" src="https://github.com/user-attachments/assets/fab72c60-4f38-4569-a31d-c5e2a157a942" />
 
 ## Tech Stack
-Power BI
-Power Query
-DAX
-Microsoft Excel
+-Power BI
+
+-Power Query
+
+-DAX
+
+-Microsoft Excel
 
 ## Data Source
 Sample Financial Dataset (Excel)
 
 ## Author
-Vikash Kumar  
-Aspiring Data Analyst / Business Analyst  
-Skills: Power BI | SQL | Excel | Data Analysis
+-Vikash Kumar
+
+-Aspiring Data Analyst / Business Analyst
+
+-Skills: Power BI | SQL | Excel | Data Analysis
