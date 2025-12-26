@@ -1,12 +1,10 @@
 # Finance-Dashboard-Power-BI
 
 ## Project Description
--This Finance Performance Dashboard is created using Power BI.
+The Finance Performance Dashboard is an interactive business intelligence solution developed using Microsoft Power BI.
+This dashboard provides a comprehensive view of an organisation’s financial performance by analysing Sales, Profit, Profit Margin, and Units Sold across multiple countries, years, and business segments.
 
--It provides insights into sales, profit, profit margin, and units sold
-
--across different countries and business segments.
-
+The goal of this project is to enable stakeholders to quickly understand key financial metrics, identify trends, and make informed, data-driven decisions.
 
 ## Objectives
 -Analyse overall financial performance
@@ -18,8 +16,6 @@
 -Compare regional and segment-wise financial contribution
 
 -Enable interactive analysis using filters and slicers
-
-The goal of this project is to enable stakeholders to quickly understand key financial metrics, identify trends, and make informed, data-driven decisions.
 
 ## Key KPIs
 -Total Sales
