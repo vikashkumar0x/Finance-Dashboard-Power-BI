@@ -2,22 +2,32 @@
 
 ## Project Description
 -This Finance Performance Dashboard is created using Power BI.
+
 -It provides insights into sales, profit, profit margin, and units sold
+
 -across different countries and business segments.
+
 
 ## Objectives
 -Analyse overall financial performance
+
 -Track sales and profit trends over time
+
 -Identify top-performing and low-performing business segments
+
 -Compare regional and segment-wise financial contribution
+
 -Enable interactive analysis using filters and slicers
 
 The goal of this project is to enable stakeholders to quickly understand key financial metrics, identify trends, and make informed, data-driven decisions.
 
 ## Key KPIs
 -Total Sales
+
 -Total Profit
+
 -Profit Margin
+
 -Units Sold
 
 ## Dashboard Highlights
